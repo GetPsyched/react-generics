@@ -1,0 +1,22 @@
+{
+  "name": "react-generics",
+  "version": "0.1.0",
+  "description": "This package is a collection of customisable wrappers around several input generics of HTML. The aim is to create more \"types\" of inputs that HTML does not already provide; for example, OTP input, phone number inputs with country code, country select, etc.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getpsyched/react-generics.git"
+  },
+  "keywords": [
+    "generics"
+  ],
+  "author": "GetPsyched",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/getpsyched/react-generics/issues"
+  },
+  "homepage": "https://github.com/getpsyched/react-generics#readme"
+}
