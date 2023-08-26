@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/getpsyched/react-generics#readme",
   "devDependencies": {
-    "tsup": "^7.2.0"
+    "typescript": "^5.2.2"
   }
 }
